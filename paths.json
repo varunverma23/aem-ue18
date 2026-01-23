@@ -1,8 +1,9 @@
 {
   "mappings": [
     "/content/aem-ue18/:/",
-    "/content/aaem-ue18/configuration:/.helix/config.json",
-    "/content/aem-ue18/metadata:/metadata.json"
+    "/content/aem-ue18/configuration:/.helix/config.json",
+    "/content/aem-ue18/metadata:/metadata.json",
+    "/content/wknd-xwalk/redirects"
   ],
   "includes": [
     "/content/aem-ue18/"
