@@ -23,7 +23,7 @@
       },
       {
         "component": "aem-tag",
-        "label": "AEM Tag Picker",
+        "label": "Tag Picker",
         "description": "Select an AEM tag",
         "name": "cq:tags",
         "valueType": "string",
